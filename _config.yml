@@ -1,22 +1,22 @@
-# Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+﻿# Site settings
+title: Qian Blog
+SEOTitle: 钱前的博客 |Qian Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: "关于JAVA与前端、黑客与画家 | 钱前，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @qian 的个人博客，与你一起发现更大的世界。"
+keyword: "钱前,Qianqian, Hux, 鬼栈, huxpro, @qianqian, 钱前的博客, Hux Blog, 博客, 个人网站, 互联网, java,前端, 设计, 产品, 朱露, Lu, 钱前的女朋友"
+url: "http://fqyang1123.top/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     q小愚z
+# zhihu_username:     huxpro
+github_username:    Qian123Qian
+# twitter_username:   huxpro
+# facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -60,8 +60,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
@@ -119,5 +119,8 @@ friends: [
     },{
         title: "前端神盾局",
         href: "http://wepiaofei.github.io/blog/"
+    },{
+        title: "七里香",
+        href: "http://qilixiang1118.top/"
     }
 ]

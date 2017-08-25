@@ -3,9 +3,9 @@
 > Yet another man.
 
 
-Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
+Hi, I am *@Q* (Qian, qian), Love life, love the world, haunt it  [Blog ](https://fqyang1123.top);[micro-blog ](weibo.com/qlovesu);[Know almost ](https://www.zhihu.com/people/qian1123);And [Github ](https://github.com/Qian123Qian)And so on, the unique skill is still in practice .
 
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and will study Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) in 2017.
+ My dream is a software engineer & a designer. My alma mater is [National University Of FuYang ](http://cie.fync.edu.cn/) My alma mater. Four years of good time, although very small, but the memory of the flow is very beautiful ,[Lanqiao](http://www.lanqiao.org/) The dream of Siwon, HelloWorld from then on. 
 
 
 ##### Talks
